@@ -1,0 +1,6 @@
+[submodule "Qwen2-VL-Finetune"]
+	path = Qwen2-VL-Finetune
+	url = https://github.com/majaraja/Qwen2-VL-Finetune.git
+[submodule "5527-Project"]
+	path = 5527-Project
+	url = https://github.com/thdhyan/5527-Project.git

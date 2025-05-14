@@ -4,3 +4,6 @@
 [submodule "5527-Project"]
 	path = 5527-Project
 	url = https://github.com/thdhyan/5527-Project.git
+[submodule "ros2_ws"]
+	path = ros2_ws
+	url = https://github.com/thdhyan/ros2_ws.git

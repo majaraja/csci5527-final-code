@@ -9,3 +9,4 @@ Contents include
 - `ros2_ws`, a repository used to generate a ros2 docker environment that can be run locally or on MSI.
 - `data_wrangling.ipynb`, pretty much what it sounds like
 - `finetune_qwen.slurm`, simply run this job on UMN MSI, with `sbatch -p msigpu --gres gpu:a100:1 finetune_qwen.slurm` to finetune Qwen2.5 VL 7b. Thats all.
+- `evaluation_script.py`, used to evaluate correctness of VLM output with ground truth
